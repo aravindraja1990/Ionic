@@ -1,2 +1,2 @@
 Read Me
-Test merging master
+Test merging branch
